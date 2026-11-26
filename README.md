@@ -3,8 +3,8 @@
 One sentence of horror, under 200 characters — a voicemail from beyond the grave.
 
 [![make.fun competition](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
-[![repo rank](https://make.fun/badge/Indodegen/u-azazex-one-line-one-chill-6d4d5488/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
-[![repo reward](https://make.fun/badge/Indodegen/u-azazex-one-line-one-chill-6d4d5488/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
+[![repo rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/Indodegen/u-azazex-one-line-one-chill-6d4d5488/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
+[![repo reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/Indodegen/u-azazex-one-line-one-chill-6d4d5488/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
 
 Bounty: [One Line, One Chill](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
 
